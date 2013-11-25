@@ -5,7 +5,7 @@
     "dist/jqm-adapter.js"
   ],
   "dependencies": {
-    "angular": ">2.0"
+    "angular": "~2.0"
   },
   "devDependencies": {
     "jquery": "1.9.1",
