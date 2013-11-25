@@ -5,7 +5,7 @@
     "dist/jqm-adapter.js"
   ],
   "dependencies": {
-    "angular": "http://code.angularjs.org/1.1.5/angular-1.1.5.zip"
+    "angular": ">2.0"
   },
   "devDependencies": {
     "jquery": "1.9.1",
